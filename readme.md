@@ -1,7 +1,9 @@
 # A tool to visualization Probability distribution
 ## For CDN
 You can easily visualization the offset volume and probability distribution  
-Requirements:  
+
+**Requirements:**  
+
 **1.cost volume(H,W,D)**  
 
 **2.offset volume(H,W,D)**  
